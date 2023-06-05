@@ -1,0 +1,2 @@
+# snakegame
+pure javascript 
